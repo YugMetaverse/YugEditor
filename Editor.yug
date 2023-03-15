@@ -1,5 +1,6 @@
 {
   "name": "Yug Editor",
   "project_url": "",
+  "version": "1",
   "main_scene": "scene.json"
 }
