@@ -6,7 +6,7 @@
     "jsx": "react",
     "sourceMap": true,
     "typeRoots": [
-      "Typings",
+      "./node_modules/@yugmetaverse/yug_typings",
       "./node_modules/@types"
     ],
     "outDir": "js"
