@@ -1,0 +1,16 @@
+{
+  "name": "tsproj",
+  "version": "1.0.0",
+  "description": "ts project",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "dependencies": {
+    "@types/mocha": "^7.0.1",
+    "@types/react": "^15.6.6",
+    "@types/react-reconciler": "^0.18.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
